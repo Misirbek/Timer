@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    background-color: black;
+    color: red;
+}
+
+.timer-container {
+    font-size: 3em;
+    text-align: center;
+}
+
+.timer {
+    font-size: inherit;
+}
